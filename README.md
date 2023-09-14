@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with React_Calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Goal of this project is to learn React by creating a Calculator Application 
 
 ## Available Scripts
 
