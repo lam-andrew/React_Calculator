@@ -4,7 +4,7 @@ import "./Button.css";
 interface ButtonProps {
     className?: string;
     value: string;
-    onClick: () => void;
+    onClick: (e: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
 const Button: React.FC<ButtonProps> = ({ className, value, onClick }) => {
